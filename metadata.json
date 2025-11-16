@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Startup Idea Generator",
+  "description": "An application that analyzes current trends to generate and detail promising startup ideas using the Gemini API.",
+  "requestFramePermissions": []
+}
